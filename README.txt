@@ -21,3 +21,9 @@ TIME: 1 hr 13 mins
 *started work on the chat side/window 
 *finished off sidebar area
 TIME: 1 hr 37 mins
+
+*finished the chat window
+*finished chat footer using <form>
+*started work on the backend made a package.json file still need to install
+dependences for the backend
+TIME: 2 hrs 
