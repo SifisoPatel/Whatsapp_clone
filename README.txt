@@ -27,3 +27,10 @@ TIME: 1 hr 37 mins
 *started work on the backend made a package.json file still need to install
 dependences for the backend
 TIME: 2 hrs 
+
+
+*started on the backend but ran into issues with nodemon
+consider downloading the desktop version
+*installed nodemon, express and mongoDB
+*spun up a cluster on mongoDB
+TIME: 2:25
